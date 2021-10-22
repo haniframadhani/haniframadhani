@@ -1,3 +1,3 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=haniframadhani&show_icons=true)
 ### Hi there 👋
-- 🌱 I’m currently learning C/C++ (C++ actually, C not really)
+- 🌱 I’m currently learning C/C++ & assembly (C++ actually, C & assembly not really)
