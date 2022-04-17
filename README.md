@@ -3,4 +3,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haniframadhani&layout=compact&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe" />
 ### Hi there 👋
 - 🌱 I’m currently learning javascript
-- 🥽 I'm currently working in 5huruf(https://github.com/haniframadhani/5huruf)
+- 🥽 I'm currently working in [5huruf](https://github.com/haniframadhani/5huruf)
