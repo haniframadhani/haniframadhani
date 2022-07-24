@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/haniframadhani/github-stats/main/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/haniframadhani/github-stats/main/generated/languages.svg#gh-dark-mode-only)
-[<img src="https://wakatime.com/share/@haniframadhani/b2982bc1-4ac9-4531-bc6e-9efcb6776fd4.svg" height='400'>]()
+![](https://raw.githubusercontent.com/haniframadhani/github-stats/main/generated/languages.svg#gh-dark-mode-only)<br>
+[<img src="https://wakatime.com/share/@haniframadhani/b2982bc1-4ac9-4531-bc6e-9efcb6776fd4.svg" alt='wakatime' height='500'>]()
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / PHP / Bootstrap / Web Design
