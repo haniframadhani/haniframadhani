@@ -2,7 +2,7 @@
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / PHP / Bootstrap / Web Design
 - 🌱 I’m currently learning OOP PHP
-- 🔭 I’m currently working on [5huruf](https://github.com/haniframadhani/5huruf)
+- 🔭 I’m currently working on [Gahi](https://github.com/haniframadhani/gahi)
 
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
 [<img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt='twitter' height='40'>](https://twitter.com/hanifr_design)
