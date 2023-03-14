@@ -1,7 +1,7 @@
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / PHP / Bootstrap / Tailwind / React js / Next js / Web Design
-- 🌱 I’m currently learning Node.JS [<img src='https://nodejs.org/static/images/favicons/favicon.png' alt='node js' height='20'>](https://nodejs.org/en/), Express.JS [<img src='https://expressjs.com/images/favicon.png' alt='express js' height='20'>](https://expressjs.com/), MongoDB [<img src='https://expressjs.com/images/favicon.png' alt='mongodb' height='20'>](https://www.mongodb.com), Docker [<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='docker' height='20'>](https://www.docker.com/)
+- 🌱 I’m currently learning Node.JS [<img src='https://nodejs.org/static/images/favicons/favicon.png' alt='node js' height='20'>](https://nodejs.org/en/), Express.JS [<img src='https://expressjs.com/images/favicon.png' alt='express js' height='20'>](https://expressjs.com/), MongoDB [<img src='https://www.mongodb.com/assets/images/global/favicon.ico' alt='mongodb' height='20'>](https://www.mongodb.com), Docker [<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='docker' height='20'>](https://www.docker.com/)
 - 🤔 I don't know, Let me think what project should I do next
 
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
