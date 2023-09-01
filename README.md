@@ -1,8 +1,7 @@
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / Bootstrap / Tailwind / React js / Next js / Web Design
-- 🌱 I’m currently learning Node.JS [<img src='https://nodejs.org/static/images/favicons/favicon.png' alt='node js' height='20'>](https://nodejs.org/en/), Express.JS [<img src='https://expressjs.com/images/favicon.png' alt='express js' height='20'>](https://expressjs.com/), MongoDB [<img src='https://www.mongodb.com/assets/images/global/favicon.ico' alt='mongodb' height='20'>](https://www.mongodb.com), Docker [<img src='https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png' alt='docker' height='20'>](https://www.docker.com/), Mongoose [<img src='https://mongoosejs.com/docs/images/favicon/apple-icon-152x152.png' alt='mongoose' height='20'>](https://mongoosejs.com/),
-- 🛠️ Currently working on Giant Spot [frontend](https://github.com/haniframadhani/giant-spot-frontend) & [backend](https://github.com/haniframadhani/giant-spot-backend)
+- 🌱 I’m currently learning Typescript [<img src='https://nodejs.org/static/images/favicons/favicon.png' alt='typescript' height='20'>](https://www.typescriptlang.org/),
 
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
 [<img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt='twitter' height='40'>](https://twitter.com/hanifr_design)
