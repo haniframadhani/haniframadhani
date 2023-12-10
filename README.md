@@ -1,7 +1,7 @@
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / Typescript / Bootstrap / Tailwind / React js / Next js / Web Design
-- 🌱 I’m currently learning Redux [<img src='https://redux.js.org/img/favicon/favicon.ico' alt='redux' height='20'>](https://redux.js.org/)
+- 🌱 I’m currently learning Go [<img src='https://go.dev/images/go-logo-white.svg' alt='go' height='20'>](https://go.dev/)
 - 🔧 Currently working on [apotek rsstt](https://github.com/haniframadhani/apotek-rsstt)
 
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
