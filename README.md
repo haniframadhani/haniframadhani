@@ -1,12 +1,14 @@
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / Typescript / Bootstrap / Tailwind / React js / Next js / Web Design
-- 🌱 I’m currently learning Go [<img src='https://go.dev/images/go-logo-white.svg' alt='go' height='20'>](https://go.dev/)
-- 🔧 Currently free just preparing for undergraduate thesis
+- 🌱 I’m currently writing thesis📝
+- 🔍 Thesis about metaheuristic algorithm
 
+[<img src='https://img.icons8.com/fluency/48/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-hanif-ramadhani/)
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
 [<img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png" alt='twitter' height='40'>](https://twitter.com/hanifr_design)
 [<img src='https://img.icons8.com/color/48/000000/geography--v1.png' alt='website' height='40'>](https://haniframadhani.github.io/)
+[<img src='https://media.dev.to/cdn-cgi/image/width=152,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8j7kvp660rqzt99zui8e.png' alt='dev.to' height='40'>](https://dev.to/haniframadhani)
 [<img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt='medium' height='40'>](https://medium.com/@mhaniframadhani985)
 [<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt='figma' height='40'>](https://www.figma.com/@haniframadhani)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unsplash.svg' alt='unsplash' height='40'>](https://unsplash.com/@haniframadhani)
