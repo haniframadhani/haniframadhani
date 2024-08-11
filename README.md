@@ -1,8 +1,9 @@
 ### Hi there 👋, my name's Hanif Ramadhani
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / Typescript / Bootstrap / Tailwind / React js / Next js / Web Design
-- 🌱 I’m currently writing thesis📝
+- ✏️ I’m currently writing thesis📝
 - 🔍 Thesis about metaheuristic algorithm
+- 🛠️ currently work on [ceco-py](https://github.com/haniframadhani/cecopy) for my thesis
 
 [<img src='https://img.icons8.com/fluency/48/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-hanif-ramadhani/)
 [<img src='https://img.icons8.com/color/48/000000/instagram-new--v1.png' alt='instagram' height='40'>](https://www.instagram.com/haniframadhani_design/)
