@@ -1,4 +1,6 @@
-### Hi there 👋, my name's Hanif Ramadhani
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
+
+### Hi there 👋, my name's Hanif Ramadhani [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 Skills: HTML / CSS / Javascript / Typescript / Bootstrap / Tailwind / React js / Next js / Web Design
 - ✏️ I’m currently writing thesis📝
