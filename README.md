@@ -4,7 +4,7 @@
 
 #### I am a Computer Science student at [Ahmad Dahlan University](https://uad.ac.id/id/)
 
-Skills: HTML / CSS / Javascript / Typescript / PHP / Bootstrap / Tailwind / React js / Next js / Web Design
+Skills: HTML / CSS / Javascript / Typescript / PHP / Bootstrap / Tailwind / React js / Next js / Laravel / Web Design
 
 - ✏️ I’m currently writing thesis📝
 - 🔍 Thesis about metaheuristic algorithm
